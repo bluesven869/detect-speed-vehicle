@@ -101,18 +101,5 @@ If you are still getting problem about installation after completed the installa
       python3 vehicle_detection_main.py
 ---
 
-## Citation
-If you use this code for your publications, please cite it as:
-
-    @ONLINE{vdtct,
-        author = "Ahmet Özlü",
-        title  = "Vehicle Detection, Tracking and Counting by TensorFlow",
-        year   = "2018",
-        url    = "https://github.com/ahmetozlu/vehicle_counting_tensorflow"
-    }
-
-## Author
-Ahmet Özlü
-
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
